@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Kmachappy
-- 👀 I’m interested in everything I keep an opened mind about all perspectives and aspects of life.
-- 🌱 I’m currently learning anything. Knowledge to me is not a choice. I'll learn from diy projects, mechanichal to software.
-- 💞️ I’m looking to collaborate on nothing at the moment. I will start creating a automotive software for collision estimating.
-- 📫 How to reach me ...
+Hello, I am Kmachappy
 
-<!---
-Kmachappy/Kmachappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring software engineer, electrician, runner, hiker, cat-parent.
+
+of many interests running, hiking, backpacking, hydropnics, tech, cybersecurity, social engineering.
+
+This is a glimpse at a chaotic mind.
+
+My minds not a well it won't run dry, just keep drinking water and you'll be alright.
