@@ -1,4 +1,4 @@
-### Hello, I am Kmachappy
+[### Hello, I am Kmachappy](http://www.kmachappy.me/)
 
 I'm an electrician, runner, hiker, cat parent and aspiring software engineer.
 
