@@ -1,6 +1,6 @@
 ### [Hello, I am Kmachappy](http://www.kmachappy.me/)
 
-I'm an automotive electrician, runner, hiker, cat parent and aspiring software engineer.
+I'm an aspiring software engineer, automotive electrician, runner, hiker, and cat parent.
 
 My many interests include running, hiking, backpacking, hydropnics, tech, cybersecurity, social engineering.
 
