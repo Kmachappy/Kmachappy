@@ -6,7 +6,9 @@ My many interests include running, hiking, backpacking, hydropnics, Keyboards, c
 
 
 Languages: JavaScript | TypeScript | Python | Java | HTML | CSS 
+
 Frameworks:  React | Django | Express | TailwindCSS | Bootstrap
+
 Databases: PostgreSQL | MySQL | MongoDB
 
 
