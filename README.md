@@ -12,7 +12,7 @@ Frameworks:  React | Django | Express | TailwindCSS | Bootstrap
 Databases: PostgreSQL | MySQL | MongoDB
 
 
-[![Profile badge](https://www.codewars.com/users/Kmachappy/badges/small)](https://www.codewars.com/users/kmachappy)
+[![Profile badge](https://www.codewars.com/users/Kmachappy/badges/small)](https://www.codewars.com/users/Kmachappy)
 
 
 
