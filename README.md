@@ -11,7 +11,8 @@ Frameworks:  React | Django | Express | TailwindCSS | Bootstrap
 
 Databases: PostgreSQL | MySQL | MongoDB
 
-https://www.codewars.com/users/Kmachappy/badges/small
+
+[![Profile badge](https://www.codewars.com/users/Kmachappy/badges/small)](https://www.codewars.com/users/kmachappy)
 
 
 
