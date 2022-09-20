@@ -3,11 +3,13 @@
 Software engineer, automotive electrician, runner, hiker, and cat parent.
 
 My many interests include running, hiking, backpacking, hydropnics, Keyboards, cybersecurity, and social engineering.
+
 ---
 
 Currently learning: Threejs | Blender | Shader programming | Reverse Engineering | Nextjs | 
 
 Currently Working on: Client website for Big Guy Auto and San Fernando Pet Hospital
+
 ---
 
 OS: Fedora Linux | OSX
@@ -19,6 +21,7 @@ Frameworks:  React | Django | Express | TailwindCSS | Bootstrap
 Databases: PostgreSQL | MySQL | MongoDB
 
 Design: Creative Cloud | Blender
+
 ---
 
 
