@@ -16,7 +16,9 @@ OS: Fedora Linux | OSX
 
 Languages: JavaScript | TypeScript | Python | Java | HTML | CSS 
 
-Frameworks:  React | Django | Express | TailwindCSS | Bootstrap
+Front End Frameworks: Nextjs | React | Django | TailwindCSS | Bootstrap | Materialize | Material UI 
+
+Back End Framewroks: Shopify | Strapi | Payload | Express | Stripe | Django
 
 Databases: PostgreSQL | MySQL | MongoDB
 
