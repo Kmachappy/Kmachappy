@@ -6,7 +6,7 @@ My many interests include running, hiking, backpacking, hydropnics, Keyboards, c
 
 ---
 
-Currently learning: Threejs | Blender | Shader programming | Reverse Engineering | Nextjs | 
+Currently learning: Threejs | Blender | Shader programming | Reverse Engineering | Nextjs | Strapi | Shopify | Payload | 
 
 Currently Working on: Client website for Big Guy Auto and San Fernando Pet Hospital
 
