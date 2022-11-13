@@ -8,17 +8,17 @@ My many interests include running, hiking, backpacking, hydropnics, Keyboards, c
 
 Currently learning: Threejs | Blender | Shader programming | Reverse Engineering | Nextjs | Strapi | Shopify | Payload | 
 
-Currently Working on: Client website for Big Guy Auto and San Fernando Pet Hospital
+Currently Working on: Client website for Big Guy Auto and San Fernando Pet Hospital, Twisted Dreams Haunt
 
 ---
 
-OS: Fedora Linux | OSX
+OS: Fedora | MacOS
 
 Languages: JavaScript | TypeScript | Python | Java | HTML | CSS 
 
 Front End Frameworks: Nextjs | React | Django | TailwindCSS | Bootstrap | Materialize | Material UI 
 
-Back End Framewroks: Shopify | Strapi | Payload | Express | Stripe | Django
+Back End Framewroks: Shopify | Strapi | Payload | Express | Stripe | Django | MedusaJS | 
 
 Databases: PostgreSQL | MySQL | MongoDB
 
