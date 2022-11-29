@@ -18,7 +18,7 @@ Languages: JavaScript | TypeScript | Python | Java | HTML | CSS
 
 Front End Frameworks: Nextjs | React | Django | TailwindCSS | Bootstrap | Materialize | Material UI 
 
-Back End Framewroks: Wordpress | Shopify | Strapi | Payload | Express | Stripe | Django | MedusaJS | 
+Back End Framewroks: Wordpress | Shopify | Strapi | Payload | Express | Stripe | Django | MedusaJS | f
 
 Databases: PostgreSQL | MySQL | MongoDB
 
