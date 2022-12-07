@@ -24,7 +24,7 @@ Headless CMS: Wordpress | Strapi | payload
 
 Database: PostgreSQL | SQLite3 | MongoDB
 
-DevOps: Docker | VPS | AWS S3 | Digital Ocean | Nginx | jest
+DevOps: Docker | VPS | AWS S3 | Digital Ocean | Nginx | jest | Dokku
 
 API: REST | GraphQL
 
