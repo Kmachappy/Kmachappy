@@ -18,7 +18,7 @@ Languages: JavaScript | TypeScript | Python | Java | HTML | PHP | CSS
 
 FrontEnd: Nextjs | React | TailwindCSS | Bootstrap | Materialize | Material UI |  
 
-BackEnd: Shopify | Express | Stripe | Django | MedusaJS | Serverless
+BackEnd: Shopify | Express | Stripe | Django | MedusaJS  | Serverless
 
 Headless CMS: Wordpress | Strapi | payload
 
