@@ -1,4 +1,4 @@
-### [Hello, I am Kmachappy](http://www.kmachappy.me/)
+### [Hello, I'm Kmachappy](http://www.kmachappy.me/)
 
 Full Stack Developer, automotive electrician, runner, hiker, and cat parent.
 
