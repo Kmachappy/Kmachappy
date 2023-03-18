@@ -8,11 +8,11 @@ My many interests include running, hiking, backpacking, hydropnics, Keyboards, c
 
 Currently learning: Threejs | Blender | Shader programming | Reverse Engineering | Nextjs | Strapi | Shopify | Payload | Docker | VPS | AWS S3 | Digital Ocean | Nginx | jest
 
-Currently Working on: Client website for Big Guy Auto and San Fernando Pet Hospital, Twisted Dreams Haunt
+Currently Working on: Client website for Twisted Dreams Haunted House and Big Guy Auto Body
 
 ---
 
-OS: Fedora | MacOS
+OS: Fedora | MacOS | Windows 10
 
 Languages: JavaScript | TypeScript | Python | Java | HTML | PHP | CSS 
 
