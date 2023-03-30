@@ -6,7 +6,7 @@ My many interests include running, hiking, backpacking, hydropnics, Keyboards, c
 
 ---
 
-Currently learning: Threejs | Blender | Shader programming | Reverse Engineering | Nextjs | Strapi | Shopify | Payload | Docker | VPS | AWS S3 | Digital Ocean | Nginx | jest
+Currently learning: C | Assember | Reverse Engineering | Docker | VPS | AWS S3 | Digital Ocean 
 
 Currently Working on: Client website for Twisted Dreams Haunted House and Big Guy Auto Body
 
@@ -14,7 +14,7 @@ Currently Working on: Client website for Twisted Dreams Haunted House and Big Gu
 
 OS: Fedora | MacOS | Windows 10
 
-Languages: JavaScript | TypeScript | Python | Java | HTML | PHP | CSS 
+Languages: JavaScript | TypeScript | Python | Java | HTML | PHP | CSS | C | Assembler
 
 FrontEnd: Nextjs | React | TailwindCSS | Bootstrap | Materialize | Material UI |  
 
