@@ -1,22 +1,22 @@
-### [Hello, I'm Kmachappy](http://www.kmachappy.me/)
+### [Hello, I'm SinfulHymn](http://www.kmachappy.me/)
 
-Full Stack Developer, automotive electrician, runner, hiker, and cat parent.
+Full Stack Developer, Red Teamer, Middle School Coach, Automotive electrician, Runner, Hiker, and Cat parent.
 
-My many interests include running, hiking, backpacking, hydropnics, Keyboards, cybersecurity, and social engineering.
-
----
-
-Currently learning: C | Assember | Reverse Engineering | Docker | VPS | AWS S3 | Digital Ocean 
-
-Currently Working on: Client website for Twisted Dreams Haunted House and Big Guy Auto Body
+My many interests include running, hiking, backpacking, hydropnics, cannabis, Keyboards, cybersecurity, and social engineering.
 
 ---
 
-OS: Fedora | MacOS | Windows 10
+Currently learning:  | C | Assember | Reverse Engineering | Docker | VPS | AWS S3 | Digital Ocean 
+
+Currently Working on: Personal Projects.
+
+---
+
+OS:  Fedora | QubesOS | MacOS | Windows 10
 
 Languages: JavaScript | TypeScript | Python | Java | HTML | PHP | CSS | C | Assembler
 
-FrontEnd: Nextjs | React | TailwindCSS | Bootstrap | Materialize | Material UI |  
+FrontEnd: Nextjs | React | TailwindCSS | Bootstrap | Materialize | Material UI 
 
 BackEnd: Shopify | Express | Stripe | Django | MedusaJS  | Serverless
 
